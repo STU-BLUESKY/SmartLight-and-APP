@@ -1,0 +1,4 @@
+Added Component: Designator=LED?(10mmRBG)
+Added Pin To Net: NetName=RBG_R Pin=LED1-4
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED? BGR
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

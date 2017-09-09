@@ -1,0 +1,4 @@
+Added Component: Designator=PC1(KEY_SIM2P)
+Added Pin To Net: NetName=GND Pin=PC1-1
+Added Pin To Net: NetName=RESET Pin=PC1-2
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component PC1 SW-PB_DIP

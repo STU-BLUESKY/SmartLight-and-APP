@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.huangshaojie.holo.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearlayout1"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="40dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="16dp"
+        android:paddingTop="30dp"
+        >
+
+
+        <com.larswerkman.holocolorpicker.ColorPicker
+            android:id="@+id/picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.larswerkman.holocolorpicker.SVBar
+            android:id="@+id/svbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.larswerkman.holocolorpicker.OpacityBar
+            android:id="@+id/opacitybar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.larswerkman.holocolorpicker.SaturationBar
+            android:id="@+id/saturationbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <com.larswerkman.holocolorpicker.ValueBar
+            android:id="@+id/valuebar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+
+
+
+    <com.example.huangshaojie.holo.CustomFAB
+        android:id="@+id/power"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/power32"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        custom:bg_color="@android:color/holo_red_light"
+        android:tint="@android:color/white"
+        />
+    <com.example.huangshaojie.holo.CustomFAB
+        android:id="@+id/timer"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/timer32"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="16dp"
+        custom:bg_color="@color/light_blue"
+        android:tint="@android:color/white"
+        />
+    <com.example.huangshaojie.holo.CustomFAB
+        android:id="@+id/lightfade"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:src="@drawable/fade"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="270dp"
+        android:layout_marginBottom="16dp"
+        custom:bg_color="@android:color/holo_green_light"
+        android:tint="@android:color/white"
+        />
+    <RelativeLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/List"
+        android:orientation="vertical"
+        >
+        <RelativeLayout
+            android:id="@+id/xiaoyedeng"
+            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            >
+            <ImageView
+                android:id="@+id/lightpic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/lightpic2"
+                />
+            <TextView
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:text="小夜灯"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:textAlignment="gravity"
+                android:layout_marginLeft="40dp"
+                />
+            <ch.ielse.view.SwitchView
+                android:id="@+id/xiaoyedeng_isopened"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/zidongliangdu"
+            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:layout_below="@id/xiaoyedeng"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            >
+            <ImageView
+                android:id="@+id/sun"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/sun"
+                />
+            <TextView
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:text="亮度自动"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:textAlignment="gravity"
+                android:layout_marginLeft="40dp"
+                />
+            <ch.ielse.view.SwitchView
+                android:id="@+id/liangduzidong_isopened"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/zidongjianbian"
+            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:layout_below="@id/zidongliangdu"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            >
+            <ImageView
+                android:id="@+id/fadeeeee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/fade"
+                />
+            <TextView
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:text="亮度自动"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:textAlignment="gravity"
+                android:layout_marginLeft="40dp"
+                />
+            <ch.ielse.view.SwitchView
+                android:id="@+id/yansezidong_isopened"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/timelist"
+            android:layout_height="50dp"
+            android:layout_width="match_parent"
+            android:layout_below="@id/zidongjianbian"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:background="@drawable/settime"
+                />
+            <TextView
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:text="定时"
+                android:textSize="16sp"
+                android:gravity="center_vertical"
+                android:textAlignment="gravity"
+                android:layout_marginLeft="40dp"
+                />
+
+        </RelativeLayout>
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/timelist"
+            android:layout_marginTop="1dp"
+            android:background="@color/white"
+            />
+        <com.example.huangshaojie.holo.CustomFAB
+            android:id="@+id/add"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@android:drawable/ic_input_add"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="16dp"
+            custom:bg_color="@android:color/holo_red_light"
+            android:tint="@android:color/white"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout3"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+
+        <picker.ugurtekbas.com.Picker.Picker
+            android:id="@+id/amPicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <ch.ielse.view.SwitchView
+            android:id="@+id/openorclose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/amPicker"
+            android:layout_marginTop="15dp" />
+        <TextView
+            android:id="@+id/timeText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="9:00|关闭"
+            android:layout_below="@id/openorclose"
+            android:layout_marginTop="15dp"
+            android:textSize="25sp"
+            />
+
+        <Button
+            android:id="@+id/choseTime"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="确定"
+            android:layout_gravity="bottom"
+            android:layout_alignParentBottom="true"
+            />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

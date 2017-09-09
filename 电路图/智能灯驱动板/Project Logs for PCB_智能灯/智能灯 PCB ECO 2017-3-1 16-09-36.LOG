@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=JTMS Pin=J1-2
+Removed Pin From Net: NetName=JTCK Pin=J1-3
+Added Pin To Net: NetName=JTCK Pin=J1-2
+Added Pin To Net: NetName=JTMS Pin=J1-3
+Added Room: Name=ÖÇÄÜµÆ

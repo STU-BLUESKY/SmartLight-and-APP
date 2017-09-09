@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=J1-2
+Removed Pin From Net: NetName=RBG_B Pin=J1-4
+Removed Pin From Net: NetName=5V Pin=J2-2
+Removed Pin From Net: NetName=RBG_B Pin=J2-4
+Added Pin To Net: NetName=RBG_B Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-4
+Added Pin To Net: NetName=RBG_B Pin=J2-2
+Added Pin To Net: NetName=5V Pin=J2-4
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED11 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED12 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED13 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED14 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED15 BGR
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

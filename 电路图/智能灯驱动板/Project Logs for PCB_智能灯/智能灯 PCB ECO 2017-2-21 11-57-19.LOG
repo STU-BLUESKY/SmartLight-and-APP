@@ -1,0 +1,59 @@
+Added Component: Designator=D1(0805d)
+Added Component: Designator=D2(0805d)
+Added Component: Designator=D3(0805d)
+Added Component: Designator=D4(0805d)
+Added Component: Designator=D5(0805d)
+Added Component: Designator=U1(LQFP64-0.4MM)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=LED1 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=LED2 Pin=D4-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=LED3 Pin=D5-2
+Added Pin To Net: NetName=3.3V Pin=U1-1
+Added Pin To Net: NetName=OSC_IN Pin=U1-5
+Added Pin To Net: NetName=OSC_OUT Pin=U1-6
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=LED1 Pin=U1-8
+Added Pin To Net: NetName=LED2 Pin=U1-9
+Added Pin To Net: NetName=LED3 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=3.3V Pin=U1-13
+Added Pin To Net: NetName=PA0 Pin=U1-14
+Added Pin To Net: NetName=TX2 Pin=U1-16
+Added Pin To Net: NetName=RX2 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=3.3V Pin=U1-19
+Added Pin To Net: NetName=PA6 Pin=U1-22
+Added Pin To Net: NetName=PA7 Pin=U1-23
+Added Pin To Net: NetName=PB0 Pin=U1-26
+Added Pin To Net: NetName=BOOT1 Pin=U1-28
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=3.3V Pin=U1-32
+Added Pin To Net: NetName=SCL Pin=U1-38
+Added Pin To Net: NetName=SDA Pin=U1-39
+Added Pin To Net: NetName=RX1 Pin=U1-42
+Added Pin To Net: NetName=TX1 Pin=U1-43
+Added Pin To Net: NetName=PA11 Pin=U1-44
+Added Pin To Net: NetName=PA12 Pin=U1-45
+Added Pin To Net: NetName=JTMS Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=3.3V Pin=U1-48
+Added Pin To Net: NetName=JTCK Pin=U1-49
+Added Pin To Net: NetName=JTDI Pin=U1-50
+Added Pin To Net: NetName=24_SDA Pin=U1-52
+Added Pin To Net: NetName=24_SCL Pin=U1-53
+Added Pin To Net: NetName=JTDO Pin=U1-55
+Added Pin To Net: NetName=JTRST Pin=U1-56
+Added Pin To Net: NetName=BOOT0 Pin=U1-60
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=3.3V Pin=U1-64
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component D1 LED
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component D2 LED
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component D3 LED
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component D4 LED
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component D5 LED
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component U1 STM32F103RCT6

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LED1 Pin=U1-8
+Removed Pin From Net: NetName=LED2 Pin=U1-9
+Removed Pin From Net: NetName=LED3 Pin=U1-10
+Added Pin To Net: NetName=LED3 Pin=U1-33
+Added Pin To Net: NetName=LED2 Pin=U1-36
+Added Pin To Net: NetName=LED1 Pin=U1-37
+Added Room: Name=ÖÇÄÜµÆ

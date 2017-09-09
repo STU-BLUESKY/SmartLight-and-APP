@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/openBluetooth"
+        android:title="Open Bluetooth"
+        />
+    <item
+        android:id="@+id/closeBluetooth"
+        android:title="Close BlueTooth"
+        />
+    <item
+        android:id="@+id/connectPairedDevices"
+        android:title="Connect Paired devices"
+        />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        />
+
+</menu>

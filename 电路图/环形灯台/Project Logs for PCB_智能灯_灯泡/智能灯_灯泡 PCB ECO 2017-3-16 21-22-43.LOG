@@ -1,0 +1,116 @@
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Added Component: Designator=LED1(10mmRBG)
+Added Component: Designator=LED3(10mmRBG)
+Added Component: Designator=LED4(10mmRBG)
+Added Component: Designator=LED5(10mmRBG)
+Added Component: Designator=LED6(10mmRBG)
+Added Component: Designator=LED7(10mmRBG)
+Added Component: Designator=LED8(10mmRBG)
+Added Component: Designator=LED9(10mmRBG)
+Added Component: Designator=LED10(10mmRBG)
+Added Component: Designator=LED11(10mmRBG)
+Added Component: Designator=LED12(10mmRBG)
+Added Component: Designator=LED13(10mmRBG)
+Added Component: Designator=LED14(10mmRBG)
+Added Component: Designator=LED15(10mmRBG)
+Added Component: Designator=LED16(10mmRBG)
+Added Component: Designator=LED17(10mmRBG)
+Added Component: Designator=LED18(10mmRBG)
+Added Component: Designator=LED19(10mmRBG)
+Added Component: Designator=LED20(10mmRBG)
+Added Pin To Net: NetName=RBG_R Pin=LED1-1
+Added Pin To Net: NetName=5V Pin=LED1-2
+Added Pin To Net: NetName=RBG_G Pin=LED1-3
+Added Pin To Net: NetName=RBG_B Pin=LED1-4
+Added Pin To Net: NetName=RBG_R Pin=LED3-1
+Added Pin To Net: NetName=5V Pin=LED3-2
+Added Pin To Net: NetName=RBG_G Pin=LED3-3
+Added Pin To Net: NetName=RBG_B Pin=LED3-4
+Added Pin To Net: NetName=RBG_R Pin=LED4-1
+Added Pin To Net: NetName=5V Pin=LED4-2
+Added Pin To Net: NetName=RBG_G Pin=LED4-3
+Added Pin To Net: NetName=RBG_B Pin=LED4-4
+Added Pin To Net: NetName=RBG_R Pin=LED5-1
+Added Pin To Net: NetName=5V Pin=LED5-2
+Added Pin To Net: NetName=RBG_G Pin=LED5-3
+Added Pin To Net: NetName=RBG_B Pin=LED5-4
+Added Pin To Net: NetName=RBG_R Pin=LED6-1
+Added Pin To Net: NetName=5V Pin=LED6-2
+Added Pin To Net: NetName=RBG_G Pin=LED6-3
+Added Pin To Net: NetName=RBG_B Pin=LED6-4
+Added Pin To Net: NetName=RBG_R Pin=LED7-1
+Added Pin To Net: NetName=5V Pin=LED7-2
+Added Pin To Net: NetName=RBG_G Pin=LED7-3
+Added Pin To Net: NetName=RBG_B Pin=LED7-4
+Added Pin To Net: NetName=RBG_R Pin=LED8-1
+Added Pin To Net: NetName=5V Pin=LED8-2
+Added Pin To Net: NetName=RBG_G Pin=LED8-3
+Added Pin To Net: NetName=RBG_B Pin=LED8-4
+Added Pin To Net: NetName=RBG_R Pin=LED9-1
+Added Pin To Net: NetName=5V Pin=LED9-2
+Added Pin To Net: NetName=RBG_G Pin=LED9-3
+Added Pin To Net: NetName=RBG_B Pin=LED9-4
+Added Pin To Net: NetName=RBG_R Pin=LED10-1
+Added Pin To Net: NetName=5V Pin=LED10-2
+Added Pin To Net: NetName=RBG_G Pin=LED10-3
+Added Pin To Net: NetName=RBG_B Pin=LED10-4
+Added Pin To Net: NetName=RBG_R Pin=LED11-1
+Added Pin To Net: NetName=5V Pin=LED11-2
+Added Pin To Net: NetName=RBG_G Pin=LED11-3
+Added Pin To Net: NetName=RBG_B Pin=LED11-4
+Added Pin To Net: NetName=RBG_R Pin=LED12-1
+Added Pin To Net: NetName=5V Pin=LED12-2
+Added Pin To Net: NetName=RBG_G Pin=LED12-3
+Added Pin To Net: NetName=RBG_B Pin=LED12-4
+Added Pin To Net: NetName=RBG_R Pin=LED13-1
+Added Pin To Net: NetName=5V Pin=LED13-2
+Added Pin To Net: NetName=RBG_G Pin=LED13-3
+Added Pin To Net: NetName=RBG_B Pin=LED13-4
+Added Pin To Net: NetName=RBG_R Pin=LED14-1
+Added Pin To Net: NetName=5V Pin=LED14-2
+Added Pin To Net: NetName=RBG_G Pin=LED14-3
+Added Pin To Net: NetName=RBG_B Pin=LED14-4
+Added Pin To Net: NetName=RBG_R Pin=LED15-1
+Added Pin To Net: NetName=5V Pin=LED15-2
+Added Pin To Net: NetName=RBG_G Pin=LED15-3
+Added Pin To Net: NetName=RBG_B Pin=LED15-4
+Added Pin To Net: NetName=RBG_R Pin=LED16-1
+Added Pin To Net: NetName=5V Pin=LED16-2
+Added Pin To Net: NetName=RBG_G Pin=LED16-3
+Added Pin To Net: NetName=RBG_B Pin=LED16-4
+Added Pin To Net: NetName=RBG_R Pin=LED17-1
+Added Pin To Net: NetName=5V Pin=LED17-2
+Added Pin To Net: NetName=RBG_G Pin=LED17-3
+Added Pin To Net: NetName=RBG_B Pin=LED17-4
+Added Pin To Net: NetName=RBG_R Pin=LED18-1
+Added Pin To Net: NetName=5V Pin=LED18-2
+Added Pin To Net: NetName=RBG_G Pin=LED18-3
+Added Pin To Net: NetName=RBG_B Pin=LED18-4
+Added Pin To Net: NetName=RBG_R Pin=LED19-1
+Added Pin To Net: NetName=5V Pin=LED19-2
+Added Pin To Net: NetName=RBG_G Pin=LED19-3
+Added Pin To Net: NetName=RBG_B Pin=LED19-4
+Added Pin To Net: NetName=RBG_R Pin=LED20-1
+Added Pin To Net: NetName=5V Pin=LED20-2
+Added Pin To Net: NetName=RBG_G Pin=LED20-3
+Added Pin To Net: NetName=RBG_B Pin=LED20-4
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED2 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED3 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED4 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED5 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED6 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED7 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED8 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED9 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED10 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED11 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED12 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED13 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED14 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED15 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED16 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED17 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED18 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED19 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED20 BGR
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

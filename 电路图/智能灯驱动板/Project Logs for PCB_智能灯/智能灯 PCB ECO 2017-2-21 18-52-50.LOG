@@ -1,0 +1,4 @@
+Added Component: Designator=RESET(KEY_SIM2P)
+Added Pin To Net: NetName=GND Pin=RESET-1
+Added Pin To Net: NetName=RESET Pin=RESET-2
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component RESET SW-PB_DIP

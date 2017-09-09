@@ -1,0 +1,6 @@
+Added Component: Designator=J2(P6_2.54-1)
+Added Pin To Net: NetName=3.3V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=TX1 Pin=J2-4
+Added Pin To Net: NetName=RX1 Pin=J2-5
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component J2 SIP6

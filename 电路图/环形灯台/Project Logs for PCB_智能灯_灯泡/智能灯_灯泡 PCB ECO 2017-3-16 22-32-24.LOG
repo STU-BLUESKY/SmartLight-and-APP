@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=RBG_R Pin=LED3-1
+Removed Pin From Net: NetName=5V Pin=LED3-2
+Removed Pin From Net: NetName=RBG_G Pin=LED3-3
+Removed Pin From Net: NetName=RBG_B Pin=LED3-4
+Removed Pin From Net: NetName=RBG_R Pin=LED4-1
+Removed Pin From Net: NetName=5V Pin=LED4-2
+Removed Pin From Net: NetName=RBG_G Pin=LED4-3
+Removed Pin From Net: NetName=RBG_B Pin=LED4-4
+Removed Pin From Net: NetName=RBG_R Pin=LED5-1
+Removed Pin From Net: NetName=5V Pin=LED5-2
+Removed Pin From Net: NetName=RBG_G Pin=LED5-3
+Removed Pin From Net: NetName=RBG_B Pin=LED5-4
+Removed Pin From Net: NetName=RBG_R Pin=LED6-1
+Removed Pin From Net: NetName=5V Pin=LED6-2
+Removed Pin From Net: NetName=RBG_G Pin=LED6-3
+Removed Pin From Net: NetName=RBG_B Pin=LED6-4
+Removed Pin From Net: NetName=RBG_R Pin=LED10-1
+Removed Pin From Net: NetName=5V Pin=LED10-2
+Removed Pin From Net: NetName=RBG_G Pin=LED10-3
+Removed Pin From Net: NetName=RBG_B Pin=LED10-4
+Removed Member From Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=LED16
+Removed Member From Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=LED17
+Removed Member From Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=LED18
+Removed Member From Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=LED19
+Removed Member From Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=LED20
+Change Component Designator: OldDesignator=LED7 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED8 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED9 NewDesignator=LED5
+Change Component Designator: OldDesignator=LED11 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED12 NewDesignator=LED7
+Change Component Designator: OldDesignator=LED13 NewDesignator=LED8
+Change Component Designator: OldDesignator=LED14 NewDesignator=LED9
+Change Component Designator: OldDesignator=LED15 NewDesignator=LED10
+Change Component Designator: OldDesignator=LED16 NewDesignator=LED11
+Change Component Designator: OldDesignator=LED17 NewDesignator=LED12
+Change Component Designator: OldDesignator=LED18 NewDesignator=LED13
+Change Component Designator: OldDesignator=LED19 NewDesignator=LED14
+Change Component Designator: OldDesignator=LED20 NewDesignator=LED15
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

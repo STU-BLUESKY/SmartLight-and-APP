@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=24C08 NewDesignator=S2
+Change Component Designator: OldDesignator=bluetooth NewDesignator=J2
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Room: Name=ÖÇÄÜµÆ

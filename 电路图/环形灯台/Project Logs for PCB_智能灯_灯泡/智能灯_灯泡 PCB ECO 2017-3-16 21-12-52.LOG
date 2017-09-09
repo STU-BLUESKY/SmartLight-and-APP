@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RBG_B Pin=LED1-1
+Removed Pin From Net: NetName=RBG_R Pin=LED1-4
+Added Pin To Net: NetName=RBG_R Pin=LED1-1
+Added Pin To Net: NetName=RBG_B Pin=LED1-4
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

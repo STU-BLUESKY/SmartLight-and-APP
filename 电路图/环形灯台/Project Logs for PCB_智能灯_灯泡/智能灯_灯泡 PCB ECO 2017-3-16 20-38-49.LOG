@@ -1,0 +1,38 @@
+Added Component: Designator=LED2(10mmRBG)
+Added Component: Designator=LED4(10mmRBG)
+Added Component: Designator=LED5(10mmRBG)
+Added Component: Designator=LED7(10mmRBG)
+Added Component: Designator=LED8(10mmRBG)
+Added Component: Designator=LED10(10mmRBG)
+Added Component: Designator=LED13(10mmRBG)
+Added Component: Designator=LED16(10mmRBG)
+Added Component: Designator=LED19(10mmRBG)
+Added Component: Designator=LED22(10mmRBG)
+Added Component: Designator=LED25(10mmRBG)
+Added Component: Designator=LED28(10mmRBG)
+Added Component: Designator=LED31(10mmRBG)
+Added Component: Designator=LED34(10mmRBG)
+Added Component: Designator=LED37(10mmRBG)
+Added Component: Designator=LED40(10mmRBG)
+Added Component: Designator=LED43(10mmRBG)
+Added Component: Designator=LED46(10mmRBG)
+Added Component: Designator=LED49(10mmRBG)
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED2 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED4 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED5 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED7 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED8 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED10 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED13 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED16 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED19 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED22 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED25 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED28 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED31 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED34 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED37 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED40 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED43 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED46 BGR
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED49 BGR

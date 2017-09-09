@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">holo</string>
+
+    <string name="text_back">返回</string>
+    <string name="text_forward">提交</string>
+
+</resources>

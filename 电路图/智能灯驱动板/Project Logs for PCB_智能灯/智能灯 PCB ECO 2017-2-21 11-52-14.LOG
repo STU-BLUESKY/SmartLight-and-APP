@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=ÖÇÄÜµÆ Member=C4
+Change Component Footprint: Designator=C1 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C2 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C3 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C5 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C6 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C7 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C8 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C9 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C10 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C11 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=C12 Old Footprint=0603C New Footprint=0805c
+Change Component Footprint: Designator=R1 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R2 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R3 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R4 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R5 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R6 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R8 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R9 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R10 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R11 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R12 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=R13 Old Footprint=0603R New Footprint=0805r
+Change Component Footprint: Designator=C13 Old Footprint=RAD-0.3 New Footprint=0805C

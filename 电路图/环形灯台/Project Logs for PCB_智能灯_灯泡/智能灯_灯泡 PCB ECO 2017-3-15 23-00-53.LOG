@@ -1,0 +1,11 @@
+Added Component: Designator=J1(P4_2.54-1)
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=RBG_B Pin=J1-3
+Added Net: Name=RBG_B
+Added Pin To Net: NetName=RBG_G Pin=J1-4
+Added Net: Name=RBG_G
+Added Pin To Net: NetName=RBG_R Pin=J1-2
+Added Net: Name=RBG_R
+Added Class: Name=ÖÇÄÜµÆ_µÆÅÝ
+Added Room: Name=ÖÇÄÜµÆ_µÆÅÝ

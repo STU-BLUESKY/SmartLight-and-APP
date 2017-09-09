@@ -1,0 +1,8 @@
+Added Component: Designator=J2(P4_2.54-1)
+Added Component: Designator=LED1(10mmRBG)
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=RBG_R Pin=J2-2
+Added Pin To Net: NetName=RBG_B Pin=J2-3
+Added Pin To Net: NetName=RBG_G Pin=J2-4
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component J2 SIP4
+Added Member To Class: ClassName=ÖÇÄÜµÆ_µÆÅÝ Member=Component LED1 BGR

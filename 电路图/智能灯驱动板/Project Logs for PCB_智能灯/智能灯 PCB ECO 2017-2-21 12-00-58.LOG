@@ -1,0 +1,4 @@
+Added Component: Designator=Y1(0.1UF)
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-1
+Added Pin To Net: NetName=OSC_IN Pin=Y1-2
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component Y1 8MHz

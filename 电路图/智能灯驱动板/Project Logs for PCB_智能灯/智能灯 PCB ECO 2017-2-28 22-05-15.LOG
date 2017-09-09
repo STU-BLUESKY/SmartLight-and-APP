@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U1 Old Footprint=LQFP64-0.4MM New Footprint=LQFP64-0.5MM
+Added Component: Designator=U?(LQFP100)
+Added Member To Class: ClassName=ÖÇÄÜµÆ Member=Component U? STM32F103VBT6
+Added Room: Name=ÖÇÄÜµÆ
